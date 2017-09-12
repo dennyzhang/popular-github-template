@@ -1,6 +1,9 @@
 # popular-github-template
 Template for popular GitHub repo
 
+# Project Integration Status
+Travis CI Status: [![Build Status](https://travis-ci.org/DennyZhang/remote-commands-servers.svg?branch=master)](https://travis-ci.org/DennyZhang/remote-commands-servers)
+
 # Call For Actions
 **Follow Denny**: in [LinkedIn](https://www.linkedin.com/in/dennyzhang001), [Github](https://github.com/DennyZhang) or [Blog](https://www.dennyzhang.com).
 
