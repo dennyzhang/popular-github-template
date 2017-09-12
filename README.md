@@ -7,7 +7,7 @@ Travis CI Status: [![Build Status](https://travis-ci.org/DennyZhang/remote-comma
 # Call For Actions
 **Follow Denny**: in [LinkedIn](https://www.linkedin.com/in/dennyzhang001), [Github](https://github.com/DennyZhang) or [Blog](https://www.dennyzhang.com).
 
-# Interlinks
+# Interlinks: Bring traffic to your other repos
 
 Similar Projects: 
 - Github: [Do a better technical selling as a developer](https://github.com/DennyZhang/developer-technical-selling)
