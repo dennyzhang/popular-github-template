@@ -1,7 +1,7 @@
 # popular-github-template
-Repo Template: Make your repos more popular.
+Repo Template: Make your Github repos more popular.
 
-Help you get more fans, stars or attentions. Everything should happen in an oragnic way.
+Help you get more fans, stars or attentions. Everything should happen in **an oragnic way**.
 
 Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
 
