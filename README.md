@@ -2,7 +2,7 @@ Table of Contents
 =================
 
    * [popular-github-template](#popular-github-template)
-   * [Project Integration Status](#project-integration-status)
+   * [Social Proof](#social-proof)
    * [Call For Actions](#call-for-actions)
    * [Interlinks: Bring traffic to your blog](#interlinks-bring-traffic-to-your-blog)
    * [Interlinks: Bring traffic to your other repos](#interlinks-bring-traffic-to-your-other-repos)
@@ -14,10 +14,9 @@ Help you get more fans, stars or attentions. Everything should happen in **an or
 
 Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
 
-# Project Integration Status
+# Social Proof
 Travis CI Status: [![Build Status](https://travis-ci.org/DennyZhang/remote-commands-servers.svg?branch=master)](https://travis-ci.org/DennyZhang/remote-commands-servers)
 
-# Social Proof
 - TODO:
 [![Gem](https://img.shields.io/gem/v/vagrant-digitalocean.svg)](https://rubygems.org/gems/vagrant-digitalocean)
 [![Gem](https://img.shields.io/gem/dt/vagrant-digitalocean.svg)](https://rubygems.org/gems/vagrant-digitalocean)
