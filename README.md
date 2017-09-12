@@ -1,3 +1,12 @@
+Table of Contents
+=================
+
+   * [popular-github-template](#popular-github-template)
+   * [Project Integration Status](#project-integration-status)
+   * [Call For Actions](#call-for-actions)
+   * [Interlinks: Bring traffic to your blog](#interlinks-bring-traffic-to-your-blog)
+   * [Interlinks: Bring traffic to your other repos](#interlinks-bring-traffic-to-your-other-repos)
+
 # popular-github-template
 Repo Template: Make your Github repos more popular.
 
