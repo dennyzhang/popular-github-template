@@ -15,7 +15,7 @@ Help you get more fans, stars or attentions. Everything should happen in **an or
 Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
 
 # Social Proof
-Travis CI Status: [![Build Status](https://travis-ci.org/DennyZhang/remote-commands-servers.svg?branch=master)](https://travis-ci.org/DennyZhang/remote-commands-servers)
+- Travis CI Status: [![Build Status](https://travis-ci.org/DennyZhang/remote-commands-servers.svg?branch=master)](https://travis-ci.org/DennyZhang/remote-commands-servers)
 
 - TODO:
 [![Gem](https://img.shields.io/gem/v/vagrant-digitalocean.svg)](https://rubygems.org/gems/vagrant-digitalocean)
