@@ -23,7 +23,7 @@ Travis CI Status: [![Build Status](https://travis-ci.org/DennyZhang/remote-comma
 - File me [tickets](https://github.com/DennyZhang/popular-github-template/issues), or star this github repo: https://github.com/DennyZhang/popular-github-template
 
 # Interlinks: Bring traffic to your blog
-- Blog post: [https://www.dennyzhang.com/github_wiki](Effectively Technical Writing In GitHub).
+- Blog post: [Effectively Technical Writing In GitHub](https://www.dennyzhang.com/github_wiki).
 
 # Interlinks: Bring traffic to your other repos
 
