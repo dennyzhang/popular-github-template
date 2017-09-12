@@ -18,7 +18,9 @@ Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/D
 Travis CI Status: [![Build Status](https://travis-ci.org/DennyZhang/remote-commands-servers.svg?branch=master)](https://travis-ci.org/DennyZhang/remote-commands-servers)
 
 # Call For Actions
-**Follow Denny**: in [LinkedIn](https://www.linkedin.com/in/dennyzhang001), [Github](https://github.com/DennyZhang) or [Blog](https://www.dennyzhang.com).
+- **Follow Denny**: in [LinkedIn](https://www.linkedin.com/in/dennyzhang001), [Github](https://github.com/DennyZhang) or [Blog](https://www.dennyzhang.com).
+
+- File me [tickets](https://github.com/DennyZhang/popular-github-template/issues), or star this github repo: https://github.com/DennyZhang/popular-github-template
 
 # Interlinks: Bring traffic to your blog
 - Blog post: [https://www.dennyzhang.com/github_wiki](Effectively Technical Writing In GitHub).
