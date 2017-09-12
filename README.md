@@ -1,9 +1,9 @@
 # popular-github-template
-Template for popular GitHub repo. The goal: help you to get more fans and stars in Github.
+Repo Template: Make your repos more popular.
 
-Everything should happen in an oragnic way.
+Help you get more fans, stars or attentions. Everything should happen in an oragnic way.
 
-See more: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
+Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
 
 # Project Integration Status
 Travis CI Status: [![Build Status](https://travis-ci.org/DennyZhang/remote-commands-servers.svg?branch=master)](https://travis-ci.org/DennyZhang/remote-commands-servers)
