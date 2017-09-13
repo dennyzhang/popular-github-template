@@ -30,9 +30,9 @@ Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/D
 # Interlinks: Bring Traffic To Your Other Repos
 
 Similar Projects: 
-- Github: [Do a better technical selling as a developer](https://github.com/DennyZhang/developer-technical-selling)
-- Github: [How To Improve Professional Influence In Linkedin](https://github.com/DennyZhang/linkedin-grow-influence)
-- Github: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
+- Github Repo: [Do a better technical selling as a developer](https://github.com/DennyZhang/developer-technical-selling)
+- Github Repo: [How To Improve Professional Influence In Linkedin](https://github.com/DennyZhang/linkedin-grow-influence)
+- Github Repo: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
 
 # Interlinks: Bring Traffic To Your Blog
-- Blog post: [Effectively Technical Writing In GitHub](https://www.dennyzhang.com/github_wiki).
+- Blog Post: [Effectively Technical Writing In GitHub](https://www.dennyzhang.com/github_wiki).
