@@ -7,6 +7,7 @@ Table of Contents
    * [Interlinks: Bring Traffic To Your Other Repos](#interlinks-bring-traffic-to-your-other-repos)
    * [Interlinks: Bring Traffic To Your Blog](#interlinks-bring-traffic-to-your-blog)
    * [Contributors: Give people credits](#contributors-give-people-credits)
+   * [Financial Support](#financial-support)
    * [License](#license)
 
 # Basic Intro
@@ -50,6 +51,12 @@ Below are folks who have contributed via GitHub!
 <a href="graphs/contributors"><img src="https://opencollective.com/ifme/contributors.svg?width=890" /></a>
 
 - How to Contribute? Check [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+# Financial Support
+
+- Sponsors
+
+Thank you to all our sponsors! (please ask your company to also support this open source project by [becoming a sponsor](https://opencollective.com/)).
 
 # License
 - Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
