@@ -24,7 +24,8 @@ Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/D
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/devopsgroup-io/vagrant-digitalocean.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20Vagrant%20plugin%21&url=https%3A%2F%2Fgithub.com%2Fdevopsgroup-io%2Fvagrant-digitalocean&hashtags=vagrant%2Cdigitalocean&original_referer=)
 
 # Call For Actions
-- **Follow Denny**: in [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/denny_linkedin.png)](https://www.linkedin.com/in/dennyzhang001) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/denny_github.png)](https://github.com/DennyZhang) or [Blog](https://www.dennyzhang.com).
+- **Follow Denny**: in [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/denny_linkedin.png)](https://www.linkedin.com/in/dennyzhang001) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/denny_github.png)](https://github.com/DennyZhang)
+- Or check my [Blog](https://www.dennyzhang.com).
 
 - File me [tickets](https://github.com/DennyZhang/popular-github-template/issues), or star this github repo: https://github.com/DennyZhang/popular-github-template
 
