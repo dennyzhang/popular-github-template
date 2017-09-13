@@ -1,1 +1,4 @@
-Welcome file tickets or send PRs
+Thanks for Checking.
+
+- Files Tickets
+- Create PRs
