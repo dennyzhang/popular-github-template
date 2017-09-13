@@ -30,11 +30,12 @@ Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/D
 - File me [tickets](https://github.com/DennyZhang/popular-github-template/issues) or star [the repo](https://github.com/DennyZhang/popular-github-template)
 
 # Interlinks: Bring Traffic To Your Other Repos
-
-Similar Projects: 
+<details>
+ <summary>Similar Projects </summary>
 - Github Repo: [Do a better technical selling as a developer](https://github.com/DennyZhang/developer-technical-selling)
 - Github Repo: [How To Improve Professional Influence In Linkedin](https://github.com/DennyZhang/linkedin-grow-influence)
 - Github Repo: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
+</details>
 
 # Interlinks: Bring Traffic To Your Blog
 - Blog Post: [Effectively Technical Writing In GitHub](https://www.dennyzhang.com/github_wiki).
