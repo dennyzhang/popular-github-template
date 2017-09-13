@@ -6,8 +6,8 @@ Table of Contents
    * [Call For Actions](#call-for-actions)
    * [Interlinks: Bring Traffic To Your Other Repos](#interlinks-bring-traffic-to-your-other-repos)
    * [Interlinks: Bring Traffic To Your Blog](#interlinks-bring-traffic-to-your-blog)
-   * [Contributors: Give people credits](#contributors-give-people-credits)
    * [Financial Support](#financial-support)
+   * [Contributors: Give people credits](#contributors-give-people-credits)
    * [License](#license)
 
 # Basic Intro
@@ -45,16 +45,16 @@ Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/D
 # Interlinks: Bring Traffic To Your Blog
 - Blog Post: [Effectively Technical Writing In GitHub](https://www.dennyzhang.com/github_wiki).
 
+# Financial Support
+- Donate: We have a [Patreon](https://www.patreon.com/) page where you can give donations.
+- Sponsors: Thank you to all our sponsors! (Maybe you can ask your company to [become a sponsor](https://opencollective.com/)).
+
 # Contributors: Give people credits
 Below are folks who have contributed via GitHub!
 
 <a href="graphs/contributors"><img src="https://opencollective.com/ifme/contributors.svg?width=890" /></a>
 
 - How to Contribute? Check [CONTRIBUTING.md](./CONTRIBUTING.md)
-
-# Financial Support
-- Donate: We have a [Patreon](https://www.patreon.com/) page where you can give donations.
-- Sponsors: Thank you to all our sponsors! (Ask your company to support this project by [becoming a sponsor](https://opencollective.com/)).
 
 # License
 - Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
