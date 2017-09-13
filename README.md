@@ -49,5 +49,7 @@ Below are folks who have contributed via GitHub!
 
 <a href="graphs/contributors"><img src="https://opencollective.com/ifme/contributors.svg?width=890" /></a>
 
+- How to Contribute? Check [CONTRIBUTING.md](./CONTRIBUTING.md)
+
 # License
 - Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
