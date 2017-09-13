@@ -40,4 +40,4 @@ Similar Projects:
 - Blog Post: [Effectively Technical Writing In GitHub](https://www.dennyzhang.com/github_wiki).
 
 # License
-Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
+- Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
