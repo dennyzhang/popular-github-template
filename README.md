@@ -26,7 +26,7 @@ Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/D
 # Call For Actions
 - **Follow Denny**: in [LinkedIn](https://www.linkedin.com/in/dennyzhang001), [Github](https://github.com/DennyZhang) or [Blog](https://www.dennyzhang.com).
 
-[![LinkedIn](https://www.linkedin.com/in/dennyzhang001)](https://www.dennyzhang.com/wp-content/uploads/sns/denny_linkedin.png)
+[![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/denny_linkedin.png)](https://www.linkedin.com/in/dennyzhang001).
 
 - File me [tickets](https://github.com/DennyZhang/popular-github-template/issues), or star this github repo: https://github.com/DennyZhang/popular-github-template
 
