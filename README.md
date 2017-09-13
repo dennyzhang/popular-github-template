@@ -1,13 +1,13 @@
 Table of Contents
 =================
 
-   * [popular-github-template](#popular-github-template)
+   * [Basic Intro](#basic-intro)
    * [Social Proof](#social-proof)
    * [Call For Actions](#call-for-actions)
-   * [Interlinks: Bring traffic to your blog](#interlinks-bring-traffic-to-your-blog)
-   * [Interlinks: Bring traffic to your other repos](#interlinks-bring-traffic-to-your-other-repos)
+   * [Interlinks: Bring Traffic To Your Other Repos](#interlinks-bring-traffic-to-your-other-repos)
+   * [Interlinks: Bring Traffic To Your Blog](#interlinks-bring-traffic-to-your-blog)
 
-# popular-github-template
+# Basic Intro
 Repo Template: Make your Github repos more popular.
 
 Help you get more fans, stars or attentions. Everything should happen in **an oragnic way**.
@@ -27,12 +27,12 @@ Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/D
 
 - File me [tickets](https://github.com/DennyZhang/popular-github-template/issues) or star [this github repo](https://github.com/DennyZhang/popular-github-template)
 
-# Interlinks: Bring traffic to your blog
-- Blog post: [Effectively Technical Writing In GitHub](https://www.dennyzhang.com/github_wiki).
-
-# Interlinks: Bring traffic to your other repos
+# Interlinks: Bring Traffic To Your Other Repos
 
 Similar Projects: 
 - Github: [Do a better technical selling as a developer](https://github.com/DennyZhang/developer-technical-selling)
 - Github: [How To Improve Professional Influence In Linkedin](https://github.com/DennyZhang/linkedin-grow-influence)
 - Github: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
+
+# Interlinks: Bring Traffic To Your Blog
+- Blog post: [Effectively Technical Writing In GitHub](https://www.dennyzhang.com/github_wiki).
