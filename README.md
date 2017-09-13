@@ -8,11 +8,11 @@ Table of Contents
    * [Interlinks: Bring Traffic To Your Blog](#interlinks-bring-traffic-to-your-blog)
 
 # Basic Intro
-This repo is supposed to be a Github Repo Template.
+This repo is supposed to be a Github Repo Template. You can create your github repo from it.
 
-You can create your github repo from this template. It helps to make your Github repos more popular.
+Consequently it helps to grow your Github influcene in **an oragnic way**.
 
-Get more fans, stars or attentions. Everything should happen in **an oragnic way**.
+Get more fans, more stars, more attentions, or etc.
 
 Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
 
