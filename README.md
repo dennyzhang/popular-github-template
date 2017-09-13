@@ -10,7 +10,7 @@ Table of Contents
 # Basic Intro
 This repo is supposed to be a Github Repo Template. You can create your github repo from it.
 
-Consequently it helps to grow your Github influcene in **an oragnic way**.
+Consequently it helps to grow your Github influence in **an organic way**.
 
 Get more fans, more stars, more attentions, or etc.
 
