@@ -21,13 +21,12 @@ Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/D
 [![Gem](https://img.shields.io/gem/v/vagrant-digitalocean.svg)](https://rubygems.org/gems/vagrant-digitalocean)
 [![Gem](https://img.shields.io/gem/dt/vagrant-digitalocean.svg)](https://rubygems.org/gems/vagrant-digitalocean)
 [![Gem](https://img.shields.io/gem/dtv/vagrant-digitalocean.svg)](https://rubygems.org/gems/vagrant-digitalocean)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/devopsgroup-io/vagrant-digitalocean.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20Vagrant%20plugin%21&url=https%3A%2F%2Fgithub.com%2Fdevopsgroup-io%2Fvagrant-digitalocean&hashtags=vagrant%2Cdigitalocean&original_referer=)
 
 # Call For Actions
 **Follow Denny**:
 
-[![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/dennyzhang001) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/dennyzhang001)
-- Check my [Blog](https://www.dennyzhang.com).
+[![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/dennyzhang001) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/dennyzhang001) [![Slack](https://www.dennyzhang.com/wp-content/uploads/sns/slack.png)](https://www.dennyzhang.com/slack)
+
 - File me [tickets](https://github.com/DennyZhang/popular-github-template/issues) or star [this github repo](https://github.com/DennyZhang/popular-github-template)
 
 # Interlinks: Bring traffic to your blog
