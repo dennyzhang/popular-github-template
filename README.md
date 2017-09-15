@@ -37,10 +37,6 @@ Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/D
  <summary>Similar Projects </summary>
 
 - Github: [Denny knowledge-base in Github](https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories)
-- Github: [Do a better technical selling as a developer](https://github.com/DennyZhang/developer-technical-selling)
-- Github: [How To Improve Professional Influence In Linkedin](https://github.com/DennyZhang/linkedin-grow-influence)
-- Github: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
-- Github: [How To Maintain An Active Slack Group For Mutual Benefits](https://github.com/DennyZhang/maintain-slack-group)
 
 </details>
 
