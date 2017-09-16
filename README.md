@@ -52,6 +52,8 @@ Below are folks who have contributed via GitHub!
 
 <a href="graphs/contributors"><img src="https://opencollective.com/ifme/contributors.svg?width=890" /></a>
 
+More example of contributor page: check [here](https://github.com/kentcdodds/all-contributors).
+
 - How to Contribute? Check [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 # License
