@@ -23,6 +23,8 @@ Learn more: [Grow Your Influence As A Tech Geek](https://github.com/search?utf8=
 <img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/gif/magic.gif">
 
 # Social Proof
+Use Badges To Enhance Your Social Proof
+
 - CI Status: [![Build Status](https://travis-ci.org/DennyZhang/remote-commands-servers.svg?branch=master)](https://travis-ci.org/DennyZhang/remote-commands-servers) [![Go Report Card](https://goreportcard.com/badge/github.com/ovh/cds)](https://goreportcard.com/report/github.com/ovh/cds) [![Coverage Status](https://coveralls.io/repos/github/DennyZhang/remote-commands-servers/badge.svg?branch=master)](https://coveralls.io/github/DennyZhang/remote-commands-servers?branch=master) [![Docker](https://www.dennyzhang.com/wp-content/uploads/sns/docker.png)](https://hub.docker.com/r/denny/chatops/)
 
 - TODO: to be improved
