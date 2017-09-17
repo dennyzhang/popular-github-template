@@ -18,7 +18,7 @@ Consequently it helps to grow your Github influence in **an organic way**.
 
 Get more fans, more stars, more attentions, or etc.
 
-Learn more: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
+Learn more: [Grow Your Influence As A Tech Geek](https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories)
 
 <img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/gif/magic.gif">
 
