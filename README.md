@@ -8,6 +8,7 @@ Table of Contents
    * [Interlinks: Bring Traffic To Your Blog](#interlinks-bring-traffic-to-your-blog)
    * [Financial Support](#financial-support)
    * [Contributors: Give people credits](#contributors-give-people-credits)
+   * [More Examples:](#more-examples)
    * [License](#license)
 
 # Basic Intro
@@ -55,6 +56,9 @@ Below are folks who have contributed via GitHub!
 More example of contributor page: check [here](https://github.com/kentcdodds/all-contributors).
 
 - How to Contribute? Check [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+# More Examples:
+- [standard-readme by RichardLitt](https://github.com/RichardLitt/standard-readme)
 
 # License
 - Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
