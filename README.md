@@ -58,8 +58,9 @@ More example of contributor page: check [here](https://github.com/kentcdodds/all
 - How to Contribute? Check [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 # More Examples:
-- [standard-readme by RichardLitt](https://github.com/RichardLitt/standard-readme)
-- [awesome-labs by iOS-readme-template](https://github.com/awesome-labs/iOS-readme-template)
+- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme)
+- [awesome-labs/iOS-readme-template](https://github.com/awesome-labs/iOS-readme-template)
+- [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes)
 
 <img align="right" width="200" height="183" src="https://www.dennyzhang.com/uploads/git/magic.gif">
 
