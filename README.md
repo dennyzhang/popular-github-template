@@ -65,6 +65,7 @@ More example of contributor page: check [here](https://github.com/kentcdodds/all
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme)
 - [awesome-labs/iOS-readme-template](https://github.com/awesome-labs/iOS-readme-template)
 - [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes)
+- [bevry/projectz](https://github.com/bevry/projectz)
 
 # License
 - Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
