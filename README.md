@@ -62,7 +62,7 @@ More example of contributor page: check [here](https://github.com/kentcdodds/all
 - [awesome-labs/iOS-readme-template](https://github.com/awesome-labs/iOS-readme-template)
 - [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes)
 
-<img align="right" width="200" height="183" src="https://www.dennyzhang.com/uploads/gif/magic.gif">
+<img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/gif/magic.gif">
 
 # License
 - Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
