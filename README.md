@@ -59,6 +59,7 @@ More example of contributor page: check [here](https://github.com/kentcdodds/all
 
 # More Examples:
 - [standard-readme by RichardLitt](https://github.com/RichardLitt/standard-readme)
+- [awesome-labs by iOS-readme-template](https://github.com/awesome-labs/iOS-readme-template)
 
 <img align="right" width="200" height="183" src="https://www.dennyzhang.com/uploads/git/magic.gif">
 
