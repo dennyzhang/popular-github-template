@@ -20,7 +20,7 @@ Get more fans, more stars, more attentions, or etc.
 
 Learn more: [Grow Your Influence As A Tech Geek](https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories)
 
-<img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/gif/magic.gif">
+<a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
 
 # Social Proof
 Use Badges To Enhance Your Social Proof
@@ -62,6 +62,7 @@ More example of contributor page: check [here](https://github.com/kentcdodds/all
 - How to Contribute? Check [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 # More Examples:
+- [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md)
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme)
 - [awesome-labs/iOS-readme-template](https://github.com/awesome-labs/iOS-readme-template)
 - [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes)
@@ -69,3 +70,5 @@ More example of contributor page: check [here](https://github.com/kentcdodds/all
 
 # License
 - Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
+
+<img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/gif/magic.gif">
