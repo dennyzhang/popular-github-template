@@ -12,6 +12,8 @@ Table of Contents
    * [License](#license)
 
 # Basic Intro
+<a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
+
 This repo is supposed to be a Github Repo Template. You can create your github repo from it.
 
 Consequently it helps to grow your Github influence in **an organic way**.
