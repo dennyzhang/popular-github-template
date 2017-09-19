@@ -40,15 +40,15 @@ Use Badges To Enhance Your Social Proof
 [![Gem](https://img.shields.io/gem/dtv/vagrant-digitalocean.svg)](https://rubygems.org/gems/vagrant-digitalocean)
 
 # Interlinks: Bring Traffic To Your Other Repos
-<details>
- <summary>Similar Projects </summary>
-
-- Github: [Denny knowledge-base in Github](https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories)
-
-</details>
+- Similar Projects Github Repos: [Denny knowledge-base in Github](https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories)
 
 # Interlinks: Bring Traffic To Your Blog
+<details>
+ <summary>Related Posts</summary>
+
 - Blog Post: [Effectively Technical Writing In GitHub](https://www.dennyzhang.com/github_wiki).
+
+</details>
 
 # Financial Support
 - Donate: We have a [Patreon](https://www.patreon.com/) page where you can give donations.
