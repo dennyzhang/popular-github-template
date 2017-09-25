@@ -1,18 +1,13 @@
-Table of Contents
-=================
-
-   * [Basic Intro](#basic-intro)
-   * [Social Proof](#social-proof)
-   * [Call For Actions](#call-for-actions)
-   * [Interlinks: Bring Traffic To Your Other Repos](#interlinks-bring-traffic-to-your-other-repos)
-   * [Interlinks: Bring Traffic To Your Blog](#interlinks-bring-traffic-to-your-blog)
-   * [Financial Support](#financial-support)
-   * [Contributors: Give people credits](#contributors-give-people-credits)
-   * [More Examples:](#more-examples)
-   * [License](#license)
-
 # Basic Intro
 <a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
+
+CI Status: [![Build Status](https://travis-ci.org/DennyZhang/popular-github-template.svg?branch=master)](https://travis-ci.org/DennyZhang/remote-commands-servers) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+[![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/dennyzhang001) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/dennyzhang001) [![Slack](https://www.dennyzhang.com/wp-content/uploads/sns/slack.png)](https://www.dennyzhang.com/slack) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang)
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/ovh/cds)](https://goreportcard.com/report/github.com/ovh/cds) [![Coverage Status](https://coveralls.io/repos/github/DennyZhang/remote-commands-servers/badge.svg?branch=master)](https://coveralls.io/github/DennyZhang/remote-commands-servers?branch=master) [![Docker](https://www.dennyzhang.com/wp-content/uploads/sns/docker.png)](https://hub.docker.com/r/denny/chatops/)
+
+File me [tickets](https://github.com/DennyZhang/popular-github-template/issues) or star [the repo](https://github.com/DennyZhang/popular-github-template).
 
 This repo is supposed to be a Github Repo Template.
 
@@ -22,32 +17,19 @@ Consequently it helps to grow your Github influence in **an organic way**.
 
 Get more fans, more stars, more attentions, or etc.
 
+# Call For Actions
 Learn more: [Grow Your Influence As A Tech Geek](https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories)
 
-# Call For Actions
-- [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/dennyzhang001) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/dennyzhang001) [![Slack](https://www.dennyzhang.com/wp-content/uploads/sns/slack.png)](https://www.dennyzhang.com/slack) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang)
+Interlinks: Bring Traffic To Your Other Repos
 
-- File me [tickets](https://github.com/DennyZhang/popular-github-template/issues) or star [the repo](https://github.com/DennyZhang/popular-github-template). [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
-# Social Proof
-Use Badges To Enhance Your Social Proof
-
-- CI Status: [![Build Status](https://travis-ci.org/DennyZhang/remote-commands-servers.svg?branch=master)](https://travis-ci.org/DennyZhang/remote-commands-servers) [![Go Report Card](https://goreportcard.com/badge/github.com/ovh/cds)](https://goreportcard.com/report/github.com/ovh/cds) [![Coverage Status](https://coveralls.io/repos/github/DennyZhang/remote-commands-servers/badge.svg?branch=master)](https://coveralls.io/github/DennyZhang/remote-commands-servers?branch=master) [![Docker](https://www.dennyzhang.com/wp-content/uploads/sns/docker.png)](https://hub.docker.com/r/denny/chatops/)
-
-- TODO: to be improved
-[![Gem](https://img.shields.io/gem/v/vagrant-digitalocean.svg)](https://rubygems.org/gems/vagrant-digitalocean)
-[![Gem](https://img.shields.io/gem/dt/vagrant-digitalocean.svg)](https://rubygems.org/gems/vagrant-digitalocean)
-[![Gem](https://img.shields.io/gem/dtv/vagrant-digitalocean.svg)](https://rubygems.org/gems/vagrant-digitalocean)
-
-# Interlinks: Bring Traffic To Your Other Repos
 - Similar Projects Github Repos: [Denny knowledge-base in Github](https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories)
 
-# Interlinks: Bring Traffic To Your Blog
+Interlinks: Bring Traffic To Your Blog
+
 <details>
  <summary>Related Posts</summary>
 
 - Blog Post: [Effectively Technical Writing In GitHub](https://www.dennyzhang.com/github_wiki).
-
 </details>
 
 # Financial Support
