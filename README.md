@@ -55,4 +55,4 @@ More example of contributor page: check [here](https://github.com/kentcdodds/all
 # License
 - Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
 
-<img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/gif/magic.gif">
+<img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/magic.gif">
