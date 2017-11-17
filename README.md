@@ -16,6 +16,7 @@ You can create your github repo from it.
 Consequently it helps to grow your Github influence in **an organic way**.
 
 Get more fans, more stars, more attentions, or etc.
+<a href="https://www.dennyzhang.com"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns.png"></a>
 
 # Call For Actions
 Learn more: [Grow Your Influence As A Tech Geek](https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories)
@@ -52,7 +53,9 @@ More example of contributor page: check [here](https://github.com/kentcdodds/all
 - [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes)
 - [bevry/projectz](https://github.com/bevry/projectz)
 
+<a href="https://www.dennyzhang.com"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns.png"></a>
+
+<a href="https://www.dennyzhang.com"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/magic.gif"></a>
+
 # License
 - Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
-
-<img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/magic.gif">
