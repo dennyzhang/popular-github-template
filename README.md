@@ -33,6 +33,8 @@ Interlinks: Bring Traffic To Your Blog
 - Blog Post: [Effectively Technical Writing In GitHub](https://www.dennyzhang.com/github_wiki).
 </details>
 
+<a href="https://www.dennyzhang.com"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns.png"></a>
+
 # Financial Support
 - Donate: We have a [Patreon](https://www.patreon.com/) page where you can give donations.
 - Sponsors: Thank you to all our sponsors! (Maybe you can ask your company to [become a sponsor](https://opencollective.com/)).
@@ -52,8 +54,6 @@ More example of contributor page: check [here](https://github.com/kentcdodds/all
 - [awesome-labs/iOS-readme-template](https://github.com/awesome-labs/iOS-readme-template)
 - [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes)
 - [bevry/projectz](https://github.com/bevry/projectz)
-
-<a href="https://www.dennyzhang.com"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns.png"></a>
 
 # License
 - Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
